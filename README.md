@@ -1,12 +1,22 @@
 👋 Hello, I'm Asouk Rajendran - Software Developer!
-Welcome to my GitHub corner! 🚀 I'm passionate about developing robust, scalable, and innovative solutions. Here, you'll find a collection of projects that reflect my skills, interests, and continuous learning journey.
+
+Welcome to my GitHub corner! 🚀 
+
+I'm passionate about developing robust, scalable, and innovative solutions. 
+
+Here, you'll find a collection of projects that reflect my skills, interests, and continuous learning journey.
 
 🛠️ Technologies & Tools
-Languages: JavaScript, TypeScript, Python, Java
-Frameworks: React, Next.js, Express.js, Node.js
+Languages: JavaScript, TypeScript, Python
+
+Frameworks: React, Next.js,  Node.js
+
 Databases: MongoDB, MySQL, PostgreSQL
-Cloud: Google Cloud Platform, Azure
+
+Cloud: Google Cloud Platform, Azure, Aws
+
 Other Tools: Git, GitHub, Docker, Looker Studio
+
 🚀 Projects
 3eco Project: Contributed to the frontend UI development, converting the project from Node.js to Next.js.
 
